@@ -5,14 +5,13 @@ This repository hosts interactive slide decks and accompanying practical materia
 > [!NOTE]
 > This repository contains only the modules taught by this instructor. For the complete curriculum, prerequisites, and lectures taught by other instructors, refer to the main [course repository](https://github.com/luuloi/Fighting_Cancer_with_Transcriptomics).
 
-## Lectures
+---
 
-| Lecture | Date | Topic | Slides | Practice |
-|---|---|---|---|---|
-| Lecture 02 | 2026-09-23 | Linux Environment & File System Navigation | [HTML Slides](https://ht2905.github.io/fcwt-2026-lecture-slides/lecture-02/) | [Google Colab](https://colab.research.google.com/drive/1o2I1QGWwUN1RRgI10lGKkfgZSZpBuOEP?usp=sharing) |
-| Lecture 04 | 2026-09-30 | Command-Line Tools, Text Processing & Automation | [HTML Slides](https://ht2905.github.io/fcwt-2026-lecture-slides/lecture-04/) | [Google Colab](https://colab.research.google.com/drive/1UNHppp8ae7l1IPzVrL5NSorNyxvtUZgx?usp=sharing) |
+## Course Navigation
 
-Additional lectures will be added here as the course progresses.
+For the live schedule, lecture slide links, and accompanying Google Colab notebooks, see [`syllabus.md`](syllabus.md).
+
+---
 
 ## Slide Navigation & Features
 
@@ -26,6 +25,8 @@ The slides are built with Quarto (Reveal.js) as self-contained HTML presentation
 | `F` | Toggle fullscreen mode |
 | `S` | Open speaker notes view |
 | `?print-pdf` | Add to URL or press `E` to enter PDF export mode for printing |
+
+---
 
 ## Local & Offline Viewing
 
