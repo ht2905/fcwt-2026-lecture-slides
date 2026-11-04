@@ -9,8 +9,8 @@ This repository hosts interactive slide decks and accompanying practical materia
 
 | Lecture | Date | Topic | Slides | Practice |
 |---|---|---|---|---|
-| Lecture 02 | 2026-09-23 | Linux Environment & File System Navigation | [HTML Slides](https://ht2905.github.io/spatial-transcriptomics-course-2026-lecture-slides/lecture-02/) | [Google Colab](https://colab.research.google.com/drive/1o2I1QGWwUN1RRgI10lGKkfgZSZpBuOEP?usp=sharing) |
-| Lecture 04 | 2026-09-30 | Command-Line Tools, Text Processing & Automation | [HTML Slides](https://ht2905.github.io/spatial-transcriptomics-course-2026-lecture-slides/lecture-04/) | [Google Colab](https://colab.research.google.com/drive/1UNHppp8ae7l1IPzVrL5NSorNyxvtUZgx?usp=sharing) |
+| Lecture 02 | 2026-09-23 | Linux Environment & File System Navigation | [HTML Slides](https://ht2905.github.io/fcwt-2026-lecture-slides/lecture-02/) | [Google Colab](https://colab.research.google.com/drive/1o2I1QGWwUN1RRgI10lGKkfgZSZpBuOEP?usp=sharing) |
+| Lecture 04 | 2026-09-30 | Command-Line Tools, Text Processing & Automation | [HTML Slides](https://ht2905.github.io/fcwt-2026-lecture-slides/lecture-04/) | [Google Colab](https://colab.research.google.com/drive/1UNHppp8ae7l1IPzVrL5NSorNyxvtUZgx?usp=sharing) |
 
 Additional lectures will be added here as the course progresses.
 
@@ -33,6 +33,6 @@ Each lecture directory contains a self-contained `index.html` file bundling all 
 
 1. Clone or download this repository:
     ```bash
-    git clone https://github.com/ht2905/spatial-transcriptomics-course-2026-lecture-slides.git
+    git clone https://github.com/ht2905/fcwt-2026-lecture-slides.git
     ```
 2. Open the desired lecture's `index.html` file directly in any modern web browser.
